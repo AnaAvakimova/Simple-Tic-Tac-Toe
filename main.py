@@ -93,4 +93,3 @@ while not game_status:
         status = "first_player"
         continue
 
-tic_tac_toe.game_result(grid_list)
