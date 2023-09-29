@@ -2,6 +2,7 @@
 
 ## Description
 A simple, console-based Tic-Tac-Toe game implemented in Python.
+This project made for educational purposes based on https://hyperskill.org/ course.
 
 ## Installation
 ```bash
